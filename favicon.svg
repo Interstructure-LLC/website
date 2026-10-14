@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-40 -30 1080 1280">
+  <title>Interstructure LLC</title>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="850" y2="1150" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#674098"/>
+      <stop offset=".45" stop-color="#bd288d"/>
+      <stop offset=".78" stop-color="#eb2f77"/>
+      <stop offset="1" stop-color="#ff4d65"/>
+    </linearGradient>
+  </defs>
+  <rect x="-40" y="-30" width="1080" height="1280" rx="180" fill="#1c1820"/>
+  <g stroke="url(#g)" stroke-width="39" fill="none" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M422 70 552 289 798 289 919 501 798 711 553 711 422 502 552 289 M422 502 183 502 62 711 183 920 422 920 553 711 M422 920 553 1139"/>
+  </g>
+  <g fill="#1c1820" stroke="url(#g)" stroke-width="34">
+    <circle cx="422" cy="70" r="51"/>
+    <circle cx="552" cy="289" r="51"/>
+    <circle cx="798" cy="289" r="51"/>
+    <circle cx="919" cy="501" r="51"/>
+    <circle cx="798" cy="711" r="51"/>
+    <circle cx="553" cy="711" r="51"/>
+    <circle cx="422" cy="502" r="51"/>
+    <circle cx="183" cy="502" r="51"/>
+    <circle cx="62" cy="711" r="51"/>
+    <circle cx="183" cy="920" r="51"/>
+    <circle cx="422" cy="920" r="51"/>
+    <circle cx="553" cy="1139" r="51"/>
+  </g>
+</svg>
